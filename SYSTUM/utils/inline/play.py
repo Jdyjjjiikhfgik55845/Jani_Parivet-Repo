@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿", url="https://t.me/RAM_HACKER_RP",
+                text="❍𝘄𝗻𝗲𝗿", url="https://t.me/RAM_HACKER_RP",
             ),
             InlineKeyboardButton(
                 text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/+FQF7rz0qM1MxMTk1",
@@ -91,7 +91,7 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝗢𝘄𝗻𝗲𝗿", url="https://t.me/RAM_HACKER_RP",
+                text="❍𝘄𝗻𝗲𝗿", url="https://t.me/RAM_HACKER_RP",
             ),
             InlineKeyboardButton(
                 text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/+FQF7rz0qM1MxMTk1",
