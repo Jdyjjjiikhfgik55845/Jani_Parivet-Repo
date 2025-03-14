@@ -51,7 +51,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 80 <= umm < 95:
         bar = "─────────🌹─"   
     else:
-        bar = "◄꯭❥‌‌꯭𓆰꯭꯭♔꯭꯭𝐕ɪ֟፝‌꯭ᴘ꯭ 𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭‌‌𔘓꯭•:꯭➛"
+        bar = ". ️. ⎯᪵⎯꯭᪳🕊️⃪꯭ͯ♥️꯭𝗝 ꯭𝛂꯭ ꯭𝛂֟፝ ꯭𝛈꯭ 𝛎 ꯭ɪ꯭༑ࠫࠫ‌‌꯭‌༑‌‌꯭𝅥‌꯭𝆬‌‌ٖٖٖٖٖٖٜٖٖ"
         
     buttons = [
         [
@@ -69,10 +69,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="❍𝘄𝗻𝗲𝗿", url="https://t.me/RAM_HACKER_RP",
+                text="❍𝘄𝗻𝗲𝗿", url="https://t.me/Janvi_yash_bestfriend",
             ),
             InlineKeyboardButton(
-                text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/+FQF7rz0qM1MxMTk1",
+                text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/+fpcVdsf7s-s1YjZl",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="❝𝗝𝗮𝗻𝗶❞")],
@@ -91,10 +91,10 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="❍𝘄𝗻𝗲𝗿", url="https://t.me/RAM_HACKER_RP",
+                text="❍𝘄𝗻𝗲𝗿", url="https://t.me/Janvi_yash_bestfriend",
             ),
             InlineKeyboardButton(
-                text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/+FQF7rz0qM1MxMTk1",
+                text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/+fpcVdsf7s-s1YjZl",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="❝𝗝𝗮𝗻𝗶❞")],
